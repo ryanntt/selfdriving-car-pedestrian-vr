@@ -1,6 +1,6 @@
-# Self-driving cars (or autonomous cars) and pedestrian interaction toolkit
+# Autonomous vehicles and pedestrians interaction design toolkit
 
-A design toolkit that can simulates the interaction between autonomous vehicles and pedestrian via tangible objects and multiple displays.
+A design toolkit that can simulate the interaction between autonomous vehicles and pedestrians via a Virtual Reality (VR) headset.
 
 ## Installation
 
